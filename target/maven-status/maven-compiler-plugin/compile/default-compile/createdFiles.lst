@@ -1,0 +1,13 @@
+com\fawry\bookstore\services\MailService.class
+com\fawry\bookstore\models\Inventory.class
+com\fawry\bookstore\Main.class
+com\fawry\bookstore\models\Books\PurchasableBook.class
+com\fawry\bookstore\models\Books\Finite.class
+com\fawry\bookstore\models\Books\Book.class
+com\fawry\bookstore\models\Books\Types\EBook.class
+com\fawry\bookstore\models\Books\Shippable.class
+com\fawry\bookstore\models\Shop.class
+com\fawry\bookstore\models\Books\Types\PaperBook.class
+com\fawry\bookstore\models\Books\Types\DemoBook.class
+com\fawry\bookstore\models\Books\Mailable.class
+com\fawry\bookstore\services\ShippingService.class

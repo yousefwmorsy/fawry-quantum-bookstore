@@ -1,0 +1,13 @@
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\Main.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\models\Books\Book.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\models\Books\Finite.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\models\Books\Mailable.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\models\Books\PurchasableBook.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\models\Books\Shippable.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\models\Books\Types\DemoBook.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\models\Books\Types\EBook.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\models\Books\Types\PaperBook.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\models\Inventory.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\models\Shop.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\services\MailService.java
+D:\Yousef\Downloads\Fawry Challenge #2\quantumbookstore\src\main\java\com\fawry\bookstore\services\ShippingService.java
