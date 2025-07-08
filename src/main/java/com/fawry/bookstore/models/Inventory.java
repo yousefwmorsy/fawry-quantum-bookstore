@@ -3,9 +3,6 @@ package com.fawry.bookstore.models;
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 
-import javax.lang.model.type.NullType;
-import javax.naming.NameNotFoundException;
-
 import com.fawry.bookstore.models.Books.Book;
 import com.fawry.bookstore.models.Books.Types.*;
 
